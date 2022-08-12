@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tn-esevai-web/static/css/main.073c9b0a.css",
+    "main.js": "/tn-esevai-web/static/js/main.9da0dce1.js",
+    "static/js/787.d1436075.chunk.js": "/tn-esevai-web/static/js/787.d1436075.chunk.js",
+    "index.html": "/tn-esevai-web/index.html",
+    "main.073c9b0a.css.map": "/tn-esevai-web/static/css/main.073c9b0a.css.map",
+    "main.9da0dce1.js.map": "/tn-esevai-web/static/js/main.9da0dce1.js.map",
+    "787.d1436075.chunk.js.map": "/tn-esevai-web/static/js/787.d1436075.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9da0dce1.js"
+  ]
+}
